@@ -1,0 +1,4 @@
+python-ditenv
+OPENAI_API_KEY
+langchain
+langchain-openai
